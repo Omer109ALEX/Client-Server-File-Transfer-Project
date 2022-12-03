@@ -1,8 +1,8 @@
-# client server 
+# Client server 
 server written in python,
 client written in cpp,
 
-client server networking useing symmetric and un-Symmetric encryption, 
+client server networking using symmetric and asymmetric encryption. 
 
-the protocol is explained in the pdf, 
+the protocol is explained in the pdf.
 
