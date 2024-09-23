@@ -36,7 +36,7 @@ The client initiates a connection with the server, performs a key exchange using
 - **File Encryption**: Files are encrypted using AES before transmission
 - **Integrity Check**: Both client and server compute file checksums to ensure accuracy of file transfers
 
-For further technical details, please refer to the [Protocol Documentation](./protocol.pdf) which explains the communication protocol in depth.
+For further technical details, please refer to the [Protocol Documentation](./DOCS/maman15.docx) which explains the communication protocol in depth.
 
 ---
 
